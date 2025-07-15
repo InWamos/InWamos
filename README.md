@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Junior backend developer with FastAPI and everything related to Python.\
+I am backend developer with FastAPI and everything related to Python.\
 Currently working on JackWallet: Combining FastAPI for backend and Next.js for frontend.\
 Interested in distributed systems' architecture, addicted to everything related to this field.
 
